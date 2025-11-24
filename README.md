@@ -1,15 +1,5 @@
 # 📧 SMTP Lab GUI
 
-> **Interactive email client-server application with a modern GUI**  
-> Cross-platform • Educational • Easy to use
-
-![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey.svg)
-
----
-
-## 🚀 Quick Start
 
 ### Installation
 
@@ -219,6 +209,4 @@ Having issues? Check:
 
 If you find this helpful, give it a star! ⭐
 
----
 
-**Built with ❤️ for learning SMTP protocols**
