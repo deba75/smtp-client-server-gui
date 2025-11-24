@@ -1,6 +1,5 @@
 # 📧 SMTP Lab GUI
 
-
 ### Installation
 
 ```bash
@@ -171,30 +170,7 @@ This project demonstrates:
 - ✅ Email message structure (MIME)
 - ✅ Asynchronous I/O with Python
 
-Perfect for **computer science students** and **networking courses**!
 
----
-
-## 🎓 For Mac Users
-
-See [MAC_SETUP.md](MAC_SETUP.md) for detailed Mac-specific instructions.
-
----
-
-## 📄 License
-
-MIT License - Free for educational and personal use.
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🔧 Submit pull requests
-
----
 
 ## 📞 Support
 
